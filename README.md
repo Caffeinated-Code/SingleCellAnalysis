@@ -17,7 +17,7 @@ Dataset:
         run with --expect-cells=10000
 
 R packages:
-        i) Seurat: To know more about the algorithms used, please refer to https://www.biorxiv.org/content/biorxiv/early/2018/11/02/460147.full.pdf
+        i) Seurat
         ii) dplyr
         iii) ggplot2
         iv) gridExtra
@@ -25,4 +25,4 @@ R packages:
         vi) umap
         vii) magrittr
       
-     
+To know more about the algorithms used in Seurat, please refer to https://www.biorxiv.org/content/biorxiv/early/2018/11/02/460147.full.pdf
