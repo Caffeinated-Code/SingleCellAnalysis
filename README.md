@@ -17,12 +17,12 @@ Dataset:
         run with --expect-cells=10000
 
 R packages:
-        1) Seurat: To know more about the algorithms used, please refer to https://www.biorxiv.org/content/biorxiv/early/2018/11/02/460147.full.pdf
-        2) dplyr
-        3) ggplot2
-        4) gridExtra
-        5) reticulate
-        6) umap
-        7) magrittr
+        i) Seurat: To know more about the algorithms used, please refer to https://www.biorxiv.org/content/biorxiv/early/2018/11/02/460147.full.pdf
+        ii) dplyr
+        iii) ggplot2
+        iv) gridExtra
+        v) reticulate
+        vi) umap
+        vii) magrittr
       
      
